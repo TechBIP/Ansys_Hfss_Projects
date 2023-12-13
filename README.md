@@ -63,4 +63,4 @@ To contribute:
 2. Create a new branch for your feature or improvement.
 3. Make your changes and submit a pull request.
 
-Thank you for considering contributing to Anisys HFSS Antenna Designs!
+Thank you for considering contributing to Ansys HFSS Antenna Designs!
